@@ -10,7 +10,7 @@ package br.univel;
 public class Principal {
 	
 	public static void main(String[] args){
-		System.out.println("Olá mundo");
+		new Message().hello();
 		System.out.println("É nois!!!");	
 	}
 }
