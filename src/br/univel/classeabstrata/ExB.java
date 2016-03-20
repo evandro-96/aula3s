@@ -1,4 +1,9 @@
 package br.univel.classeabstrata;
+/**
+ * 
+ * @author evandro
+ *
+ */
 
 class ExB extends DesenhoAbstrato {
 
