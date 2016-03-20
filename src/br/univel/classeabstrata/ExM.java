@@ -1,5 +1,9 @@
 package br.univel.classeabstrata;
 
+/**
+ * 
+ */
+
 import br.univel.classeabstrata.DesenhoAbstrato;
 
 // public class ExM implements Desenho {
