@@ -1,4 +1,9 @@
 package br.univel.classeabstrata;
+/**
+ * 
+ * @author evandro
+ *
+ */
 
 public abstract class DesenhoAbstrato{
 
