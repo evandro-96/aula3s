@@ -1,5 +1,11 @@
 package br.univel.classeabstrata;
 
+/**
+ * 
+ * @author evandro
+ *
+ */
+
 class ExE extends DesenhoAbstrato {
 
 	public static int ALTURA = 8;
