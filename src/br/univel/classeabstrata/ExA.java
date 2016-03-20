@@ -1,4 +1,9 @@
 package br.univel.classeabstrata;
+/**
+ * 
+ * @author evandro
+ *
+ */
 
 class ExA extends DesenhoAbstrato {
 
@@ -14,13 +19,10 @@ class ExA extends DesenhoAbstrato {
 			}
 			caracteres++;
 			System.out.print("\n");
-		}
-		
+		}	
 	}
-
 	@Override
 	protected String getNome() {
 		return "A";
 	}
-
 }
