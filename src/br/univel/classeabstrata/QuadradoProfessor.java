@@ -3,7 +3,7 @@ package br.univel.classeabstrata;
 /**
  *    Desenha a figura abaixo com largura = SIZE;
  * 
- * 
+ * 		Evandro
  *      ****
  *      *  *
  *      *  *
