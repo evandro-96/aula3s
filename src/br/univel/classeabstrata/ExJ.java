@@ -1,5 +1,11 @@
 package br.univel.classeabstrata;
 
+/**
+ * 
+ * @author evandro
+ *
+ */
+
 class ExJ extends DesenhoAbstrato {
 
 	public static int SIZE = 13;
