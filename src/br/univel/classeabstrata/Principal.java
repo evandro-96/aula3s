@@ -1,5 +1,9 @@
 package br.univel.classeabstrata;
 
+/**
+ * 
+ */
+
 import java.util.LinkedList;
 import java.util.List;
 
